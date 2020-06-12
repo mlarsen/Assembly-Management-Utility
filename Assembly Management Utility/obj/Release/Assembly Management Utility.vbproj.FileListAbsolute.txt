@@ -1,0 +1,13 @@
+C:\Users\msore\Google Drive\Projects\Assembly Management Utility\Assembly Management Utility\bin\Release\Assembly Management Utility.exe.config
+C:\Users\msore\Google Drive\Projects\Assembly Management Utility\Assembly Management Utility\bin\Release\Assembly Management Utility.exe
+C:\Users\msore\Google Drive\Projects\Assembly Management Utility\Assembly Management Utility\bin\Release\Assembly Management Utility.pdb
+C:\Users\msore\Google Drive\Projects\Assembly Management Utility\Assembly Management Utility\bin\Release\Assembly Management Utility.xml
+C:\Users\msore\Google Drive\Projects\Assembly Management Utility\Assembly Management Utility\obj\Release\Assembly Management Utility.vbprojAssemblyReference.cache
+C:\Users\msore\Google Drive\Projects\Assembly Management Utility\Assembly Management Utility\obj\Release\Assembly_Management_Utility.Form1.resources
+C:\Users\msore\Google Drive\Projects\Assembly Management Utility\Assembly Management Utility\obj\Release\Assembly_Management_Utility.Resources.resources
+C:\Users\msore\Google Drive\Projects\Assembly Management Utility\Assembly Management Utility\obj\Release\Assembly Management Utility.vbproj.GenerateResource.cache
+C:\Users\msore\Google Drive\Projects\Assembly Management Utility\Assembly Management Utility\obj\Release\Assembly Management Utility.vbproj.CoreCompileInputs.cache
+C:\Users\msore\Google Drive\Projects\Assembly Management Utility\Assembly Management Utility\obj\Release\Assembly Management Utility.exe
+C:\Users\msore\Google Drive\Projects\Assembly Management Utility\Assembly Management Utility\obj\Release\Assembly Management Utility.xml
+C:\Users\msore\Google Drive\Projects\Assembly Management Utility\Assembly Management Utility\obj\Release\Assembly Management Utility.pdb
+C:\Users\msore\Google Drive\Projects\Assembly Management Utility\Assembly Management Utility\obj\Release\Assembly_Management_Utility.frmSettings.resources
